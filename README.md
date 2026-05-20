@@ -1,4 +1,4 @@
-# todos
+# todos https://shidensy.github.io/TypeScriptTODO/
 
 ## Project Setup
 
